@@ -87,13 +87,15 @@ and waiting-time prediction.
 - 🌱 Learn something new every day
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
+I'm continuously working on coding problems, projects, and improving my development skills.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arunkoli2102-collab&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunkoli2102-collab&layout=compact&theme=tokyonight" height="170">
-</p>
+🚀 Building projects  
+🧠 Practicing DSA  
+💻 Learning new technologies  
+📚 Improving every day
+
 
 ---
 
