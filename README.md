@@ -1,15 +1,31 @@
-<h1>Aspiring Softwear Developer</h1>
-<p>Turning ideas into code.🚀</p>
+<h1>👨‍💻 Aspiring Software Developer</h1>
+
+<p>Turning ideas into code. 🚀</p>
+
 <h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/Arun Koli" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arun Kumar&show_icons=true&locale=en" alt="Arun Kumar" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arun Kumar&" alt="Arun Kumar" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arun Kumar&show_icons=true&locale=en&layout=compact" alt="Arun Kumar" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Arun Kumar" alt="Arun Kumar" /></a></p>
-<p>A passionate frontend developer from </p>
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+<h2>⚡ Where to Find Me</h2>
+
+<p>
+<a href="https://www.linkedin.com/in/Arun-Koli">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
+<h2>💡 About Me</h2>
+
+<ul>
+<li>🎓 Computer Science & Information Technology student</li>
+<li>💻 Learning C, C++, Python, Java and MySQL</li>
+<li>🧩 Practicing Data Structures and Algorithms</li>
+<li>🚀 Building projects and solving coding problems</li>
+<li>📚 Continuously learning and improving my programming skills</li>
+</ul>
