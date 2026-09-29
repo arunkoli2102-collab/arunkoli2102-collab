@@ -54,15 +54,23 @@ My HackerRank programming practice and solutions.
   <a href="https://www.linkedin.com/in/arun-koli-3511b0385/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br><br>
+
   <a href="https://github.com/arunkoli2102-collab">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <br><br>
+
   <a href="https://leetcode.com/u/Arunkoli123/">
     <img src="https://img.shields.io/badge/LeetCode-0077B5?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
+  <br><br>
+
   <a href="https://www.hackerrank.com/profile/arunkoli2102">
     <img src="https://img.shields.io/badge/HackerRank-0077B5?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+  <br><br>
+
   <a href="https://arun-kumar-portfolio-2026.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
