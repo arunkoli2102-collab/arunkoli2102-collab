@@ -4,16 +4,15 @@
 
 I'm a Computer Science and Information Technology student interested in programming, problem solving, and software development.
 
-## 💻 Skills
+## 💻 Languages & Tools
 
 - C
 - C++
 - Python
 - Java
 - SQL
-- Data Structures & Algorithms
 - Git & GitHub
-
+- VS Code
 ## 🚀 Projects
 
 ### 🌐 Personal Portfolio
