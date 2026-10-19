@@ -75,6 +75,4 @@ My HackerRank programming practice and solutions.
     <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
-<div align="center">
-  <img src="./arun-github-banner.png" alt="Arun Kumar GitHub Banner" width="100%" />
-</div>
+
